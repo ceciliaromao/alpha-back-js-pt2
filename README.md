@@ -2,7 +2,7 @@
 
 # Back-End
 
-## Módulo 6 - JavaScript - Part 2
+## Módulo 7 - JavaScript - Part 2
 
 ### Exercícios de classe 🏫
 
@@ -14,4 +14,4 @@ b. Crie uma página web que possibilite a comparação do tamanho de duas ‘str
 
 c. Crie uma página web que peça ao usuário que digite a sua idade em 3 campos (DIA, MÊS e ANO), seu gênero e, após clicar em um botão de ‘verificar’ informe a quantidade de dias (aproximadamente) que faltam para a sua morte considerando a expectativa de morte fornecida pelo IBGE de 73,1 anos para homens e 80,1 anos para mulheres.
 
-###### tags: `módulo 6` `back-end` `JavaScript`
+###### tags: `módulo 7` `back-end` `JavaScript`
